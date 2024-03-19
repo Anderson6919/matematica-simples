@@ -1,0 +1,7 @@
+.bannerInicial {
+    background-color: rgb(24, 206, 151);
+    border: double black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
