@@ -1,0 +1,33 @@
+:root {
+    --bg-color: #212529;
+    --border-color: #666;
+    --font-color: #f1f5f9;
+    --primary-color: #4dff91;
+    --error-color: #ff0043;
+}
+
+body {
+    padding: 25px;
+    background-color: var(--font-color);
+    color: var(--bg-color);
+    font-size: 25px;
+}
+
+.dark-mode {
+    background-color: var(--bg-color);
+    color: var(--font-color);
+}
+
+    .light-mode {
+    background-color: var(--font-color);
+    color: var(--bg-color);
+}
+
+.bannerInicial {
+    background-color: rgb(24, 206, 151);
+    border: double black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
